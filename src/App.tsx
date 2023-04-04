@@ -69,7 +69,7 @@ const App :React.FC = ()=>{
     })
 
     setTimeout(runSimulation,200)
-  },[])
+  },[operations])
 
 
   
